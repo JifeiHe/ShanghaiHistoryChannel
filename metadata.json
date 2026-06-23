@@ -1,0 +1,6 @@
+{
+  "name": "B2B Travel Channel Partner Console",
+  "description": "B2B channel partner console for the Bund Heritage Walk Shanghai walking tour, with slots, countdown timers, unassigned traveler pools, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
